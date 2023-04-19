@@ -8,7 +8,8 @@
 python turn-to-md.py
 ```
 便可以在当前文件夹生成对应的格式完善的markdown文件，通过typora等md笔记软件可以将渲染出来的md文件快速导出为pdf用于打印
-如果没有课时的md转pdf软件，可以尝试该网站：https://www.easeconvert.com/markdown-to-pdf/
+
+如果没有合适的md转pdf软件，可以尝试该网站：https://www.easeconvert.com/markdown-to-pdf/
 
 ## 参考效果
 可以通过chapter4.pdf看到在第四章作业中的md渲染效果
